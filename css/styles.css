@@ -831,6 +831,12 @@ a {
   gap: 4rem;
   margin-bottom: 4rem;
 }
+
+@media screen and (max-width: 768px) {
+  .block-showcase .grid {
+    margin-bottom: 25rem;
+  }
+}
 /* Footer */
 
 .footer {
